@@ -1,6 +1,6 @@
 //TP1
 //Julian Ezequiel Balbi
-/COMISIÓN 5
+//COMISIÓN 5
 
 //VARIABLES
 
