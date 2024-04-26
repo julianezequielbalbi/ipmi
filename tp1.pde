@@ -1,3 +1,7 @@
+//TP1
+//Julian Ezequiel Balbi
+/COMISIÓN 5
+
 //VARIABLES
 
 int miVariable = 1000;
